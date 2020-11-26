@@ -1,3 +1,5 @@
+package Inheritance;
+
 public class Animal {
     private String name;
     private int brain;
@@ -13,11 +15,11 @@ public class Animal {
         this.weight = weight;
     }
     public void eat(){
-        System.out.println("Animal eat called");
+        System.out.println("Inheritance.Animal eat called");
 
     }
     public void move(int speed){
-        System.out.println("Animal is moving at " + speed);
+        System.out.println("Inheritance.Animal is moving at " + speed);
     }
 
     public String getName() {

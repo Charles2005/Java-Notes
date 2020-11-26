@@ -1,3 +1,5 @@
+package Inheritance;
+
 public class Dog extends Animal {
     private int eyes;
     private int legs;
@@ -14,20 +16,20 @@ public class Dog extends Animal {
         this.coat = coat;
     }
     private void chew(){
-        System.out.println("Dog.chew() called");
+        System.out.println("Inheritance.Dog.chew() called");
     }
     @Override
     public void eat(){
-        System.out.println("Dog.eat() called");
+        System.out.println("Inheritance.Dog.eat() called");
         chew();
         super.eat();
     }
     public void walk(){
-        System.out.println("Dog.walk() called");
+        System.out.println("Inheritance.Dog.walk() called");
         move(5);
     }
     public void running(){
-        System.out.println("Dog.running called");
+        System.out.println("Inheritance.Dog.running called");
         move(10);
 
     }

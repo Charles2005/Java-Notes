@@ -1,14 +1,17 @@
-import java.util.Scanner;
+import Compostion.*;
 
 public class Practice {
 
     public static void main(String[] args){
-       Animal animal = new Animal("Animal", 1 ,1 ,5,5);
-       Dog dog = new Dog("Duterte", 8, 28,2, 4,1,32,"Long and Silky");
+       Dimension dimension = new Dimension(20,20,5);
+       Case theCase = new Case("NXT","ASUS", "550 watts", dimension );
 
-       dog.eat();
-       dog.walk();
-       dog.running();
+       Monitor theMonitor = new Monitor("32 inch beast", "Acer", 32, new Resolution(2540, 1400));
+       Motherboard theMotherboard = new Motherboard("B550", "Asus", 4, 8, "v.5.5");
+
+       Pc pc = new Pc(theCase, theMonitor, theMotherboard);
+       pc.powerUp();
+
 
     } // End of main method
 

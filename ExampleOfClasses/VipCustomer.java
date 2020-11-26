@@ -1,3 +1,5 @@
+package ExampleOfClasses;
+
 public class VipCustomer {
     // Fields
     private String name;

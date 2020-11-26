@@ -1,3 +1,5 @@
+package ExampleOfClasses;
+
 public class Car {
     // This the field of the class
     private int doors;

@@ -1,3 +1,4 @@
+package ExampleOfClasses;
 
 public class BankAccount {
     // Fields
