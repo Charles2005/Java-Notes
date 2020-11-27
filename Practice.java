@@ -1,4 +1,6 @@
 import Compostion.*;
+import ExampleOfClasses.*;
+import Inheritance.*;
 
 public class Practice {
 
