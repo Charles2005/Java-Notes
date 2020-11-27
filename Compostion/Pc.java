@@ -1,9 +1,5 @@
 package Compostion;
 
-import Compostion.Case;
-import Compostion.Monitor;
-import Compostion.Motherboard;
-
 public class Pc {
     private Case theCase;  // Composition
     private Monitor monitor; // Composition
