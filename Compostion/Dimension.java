@@ -18,4 +18,6 @@ public class Dimension {
     public int getHeight() {
         return height;
     }
+
+    public int getDepth(){return depth;}
 }

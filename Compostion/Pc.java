@@ -2,12 +2,12 @@ package Compostion;
 
 public class Pc {
     private Case theCase;  // Composition
-    private Monitor monitor; // Composition
+    private Monitor theMonitor; // Composition
     private Motherboard theMotherboard;  // Composition
 
     public Pc(Case theCase, Monitor monitor, Motherboard theMotherboard) {
         this.theCase = theCase;
-        this.monitor = monitor;
+        this.theMonitor = monitor;
         this.theMotherboard = theMotherboard;
 
     }
@@ -16,7 +16,7 @@ public class Pc {
         drawLogo();
     }
     private void drawLogo(){
-        monitor.drawPixelAt(1250,50, "red");
+        theMonitor.drawPixelAt(1250,50, "red");
     }
 
 }
