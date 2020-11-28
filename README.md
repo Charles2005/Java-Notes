@@ -7,4 +7,4 @@
   - [Example of Inheritance](https://github.com/Charles2005/Java-Notes/tree/master/Inheritance)
 
 ### Composition
-  - [Example of Compostion](https://github.com/Charles2005/Java-Notes/tree/master/Compostion)
+  - [Example of Composition](https://github.com/Charles2005/Java-Notes/tree/master/Compostion)

@@ -1,4 +1,4 @@
-package Compostion;
+package Composition;
 
 public class Resolution {
     private int width;
