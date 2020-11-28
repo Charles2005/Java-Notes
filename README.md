@@ -7,8 +7,7 @@
   - [Example of Inheritance](https://github.com/Charles2005/Java-Notes/tree/master/Inheritance)
 
 ### Composition
-<<<<<<< HEAD
-  - [Example of Composition](https://github.com/Charles2005/Java-Notes/tree/master/Compostion)
+  - [Example of Composition](https://github.com/Charles2005/Java-Notes/tree/master/Composition)
 
 ### Encapsulation
   - [Example of Encapsulation](https://github.com/Charles2005/Java-Notes/tree/master/Encapsulation)
