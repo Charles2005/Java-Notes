@@ -11,4 +11,7 @@
 
 ### Encapsulation
   - [Example of Encapsulation](https://github.com/Charles2005/Java-Notes/tree/master/Encapsulation)
+  
+### Arrays
+  - [Examples of Arrays](https://github.com/Charles2005/Java-Notes/tree/master/Arrays)
 
