@@ -6,7 +6,7 @@ public class ArrayLists {
 
     public static void main(String[] args){
         // Initialization of Array List
-        ArrayList<String> groceryList = new ArrayList<String>();
+        ArrayList<String> groceryList = new ArrayList<>();
 
         addItems("Ps5", groceryList);
         addItems("Electric Guitar", groceryList);
