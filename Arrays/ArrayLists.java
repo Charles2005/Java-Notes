@@ -32,7 +32,7 @@ public class ArrayLists {
     }
     public static void replaceItem(ArrayList<String> groceryList, int position, String newItem){
         groceryList.set(position - 1, newItem);
-        System.out.println("Grocery item " + (position -1) + " has been modified");
+        System.out.println("Grocery item " + (position - 1) + " has been modified");
 
     }
     public static void removeItem(ArrayList<String> groceryList, int position){
