@@ -15,5 +15,3 @@
 ### Arrays
   - [Examples of Arrays](https://github.com/Charles2005/Java-Notes/tree/master/Arrays)
 
-### Pokemon Simulator(Simple Project)
-  - [Pokemon Simulator](https://github.com/Charles2005/Java-Notes/tree/master/PokemonSImulator)
